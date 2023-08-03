@@ -13,7 +13,3 @@ The purpose of this project is to provide a wrapper around the incredible winsto
   5. PLATFORM
 3. Then import the createLogger function anywhere you would like to use it: `import { createLogger } from '../../index';`
 4. You can now build an instance of the logger by invoking createLogger: `const logger = createLogger()`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
